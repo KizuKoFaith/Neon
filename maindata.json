@@ -1,13 +1,29 @@
 [
+	{
+		"title": "Konosuba: God’s Blessing on This Wonderful World! Fantastic Days",
+		"cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnzkwDNLoFwGdb34U2cuzhd1bgAdBsADueug&usqp=CAU",
+		"volume": "Volume 01",
+		"translation": "Yen Press",
+		"status": "Releasing",
+		"mal_id": 144387,
+		"page": "Konosuba-Gods-Blessing-on-This-Wonderful-World-Fantastic-Days.json"
+	},
+	{
+		"title": "Modern Villainess: It’s Not Easy Building a Corporate Empire Before the Crash",
+		"cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvQi_QfpNIMZ0GklLcQFe1Zi84wGEmdWs1g&usqp=CAU",
+		"volume": "Volume 03",
+		"translation": "Seven Seas",
+		"status": "Releasing",
+		"mal_id": 135045,
+		"page": "Modern-Villainess-Its-Not-Easy-Building-a-Corporate-Empire-Before-the-Crash.json"
+	},
   {
     "title": "Majo No Tabitabi",
-    "alternative": "Wandering Witch: The Journey of Elaina",
     "cover": "https://static.wikia.nocookie.net/majo-no-tabitabi/images/d/d5/Light_Novel_Volume_11_EN.jpg/revision/latest?cb=20230517041743",
+    "volume": "Volume 11",
     "translation": "Yen Press",
     "status": "Releasing",
-    "type": "Light Novel",
-    "genre": "Adventure, Fantasy, Slice of Life",
-    "link": "majo-no-tabitabi.json",
-    "synopsis": "Once upon a time, there was a witch named Elaina, who set off on a journey across the world. Along the way, she would meet all kinds of people, from a country full of witches to a giant in love with his own muscles—but with each meeting, Elaina would become a small part of their story, and her own world would get a little bit bigger."
+    "mal_id": 102330,
+    "page": "majo-no-tabitabi.json"
   }
 ]

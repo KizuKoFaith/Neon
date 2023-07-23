@@ -6,7 +6,7 @@
 		"translation": "Yen Press",
 		"status": "Releasing",
 		"mal_id": 144387,
-		"page": "Konosuba-Gods-Blessing-on-This-Wonderful-World-Fantastic-Days.json"
+		"page": "Novels/Konosuba-Gods-Blessing-on-This-Wonderful-World-Fantastic-Days.json"
 	},
 	{
 		"title": "Modern Villainess: It’s Not Easy Building a Corporate Empire Before the Crash",
@@ -15,7 +15,7 @@
 		"translation": "Seven Seas",
 		"status": "Releasing",
 		"mal_id": 135045,
-		"page": "Modern-Villainess-Its-Not-Easy-Building-a-Corporate-Empire-Before-the-Crash.json"
+		"page": "Novels/Modern-Villainess-Its-Not-Easy-Building-a-Corporate-Empire-Before-the-Crash.json"
 	},
   {
     "title": "Majo No Tabitabi",
@@ -24,6 +24,6 @@
     "translation": "Yen Press",
     "status": "Releasing",
     "mal_id": 102330,
-    "page": "majo-no-tabitabi.json"
+    "page": "Novels/majo-no-tabitabi.json"
   }
 ]

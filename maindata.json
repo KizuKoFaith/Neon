@@ -1,29 +1,20 @@
 [
-	{
-		"title": "Konosuba: God’s Blessing on This Wonderful World! Fantastic Days",
-		"cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnzkwDNLoFwGdb34U2cuzhd1bgAdBsADueug&usqp=CAU",
-		"volume": "Volume 01",
-		"translation": "Yen Press",
-		"status": "Releasing",
-		"mal_id": 144387,
-		"page": "Novels/Konosuba-Gods-Blessing-on-This-Wonderful-World-Fantastic-Days.json"
-	},
-	{
-		"title": "Modern Villainess: It’s Not Easy Building a Corporate Empire Before the Crash",
-		"cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvQi_QfpNIMZ0GklLcQFe1Zi84wGEmdWs1g&usqp=CAU",
-		"volume": "Volume 03",
-		"translation": "Seven Seas",
-		"status": "Releasing",
-		"mal_id": 135045,
-		"page": "Novels/Modern-Villainess-Its-Not-Easy-Building-a-Corporate-Empire-Before-the-Crash.json"
-	},
   {
-    "title": "Majo No Tabitabi",
-    "cover": "https://static.wikia.nocookie.net/majo-no-tabitabi/images/d/d5/Light_Novel_Volume_11_EN.jpg/revision/latest?cb=20230517041743",
-    "volume": "Volume 11",
-    "translation": "Yen Press",
-    "status": "Releasing",
-    "mal_id": 102330,
-    "page": "Novels/majo-no-tabitabi.json"
+    "title":"Mushoku Tensei II: Isekai Ittara Honki Dasu - Shugo Jutsushi Fitz",
+    "alternative":"Mushoku Tensei: Jobless Reincarnation - Guardian Fitz",
+    "cover":"https://www.freenovels.site/images/fitz.jpeg",
+    "id":0000,
+    "server_id":0,
+    "server2":"null",
+    "server3":"null"
+  },
+  {
+    "title":"Mushoku Tensei II: Isekai Ittara Honki Dasu",
+    "alternative":"Mushoku Tensei: Jobless Reincarnation Season 2",
+    "cover":"https://cdn.myanimelist.net/images/anime/1732/137465.jpg",
+    "id":51179,
+    "server1":21600,
+    "server2":"null",
+    "server3":"null"
   }
 ]

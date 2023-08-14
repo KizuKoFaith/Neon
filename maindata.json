@@ -1,20 +1,52 @@
 [
   {
+    "title":"Eiyuu Kyoushitsu",
+    "alternative":"Classroom for Heroes",
+    "cover":"Eiyuu Kyoushitsu 2023.jpeg",
+    "type":"TV",
+    "id":49894,
+    "server_id":0000,
+    "server2":"classroom-for-heroes.json",
+    "server3":"null"
+  },
+  {
+    "title":"Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+    "alternative":"Mushoku Tensei: Jobless Reincarnation Part 2",
+    "cover":" Mushoku Tensei – Jobless Reincarnation Part 2.jpeg",
+    "type":"TV",
+    "id":45576,
+    "server1":21784,
+    "server2":"mushoku-tensei-jobless-reincarnation-part-2.json",
+    "server3":"null"
+  },
+  {
+    "title":"Mushoku Tensei: Isekai Ittara Honki Dasu",
+    "alternative":"Mushoku Tensei: Jobless Reincarnation",
+    "cover":"MUSHOKU TENSEI_ ISEKAI ITTARA HONKI DASU.jpeg",
+    "type":"TV",
+    "id":39535,
+    "server1":21778,
+    "server2":"mushoku-tensei-jobless-reincarnation.json",
+    "server3":"null"
+  },
+  {
     "title":"Mushoku Tensei II: Isekai Ittara Honki Dasu - Shugo Jutsushi Fitz",
     "alternative":"Mushoku Tensei: Jobless Reincarnation - Guardian Fitz",
-    "cover":"https://www.freenovels.site/images/fitz.jpeg",
-    "id":0000,
-    "server_id":0,
-    "server2":"null",
+    "cover":"mushoku-tensei-2-cover-guardian-fitz.jpeg",
+    "type":"Special",
+    "id":55818,
+    "server1":21757,
+    "server2":"mushoku-tensei-jobless-reincarnation-2-guardian-fitz.json",
     "server3":"null"
   },
   {
     "title":"Mushoku Tensei II: Isekai Ittara Honki Dasu",
     "alternative":"Mushoku Tensei: Jobless Reincarnation Season 2",
-    "cover":"https://cdn.myanimelist.net/images/anime/1732/137465.jpg",
+    "cover":"Mushoku-Tensei-2-cover.jpeg",
+    "type":"TV",
     "id":51179,
     "server1":21600,
-    "server2":"null",
+    "server2":"mushoku-tensei-jobless-reincarnation-2.json",
     "server3":"null"
   }
 ]

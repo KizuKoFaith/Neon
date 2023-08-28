@@ -25,7 +25,8 @@ fetch('/maindata.json')
 			// Append child to parent
 			div.append(img);
 			div.append(p);
-			display.append(div);
+			li.append(div);
+			display.append(li);
 		}
   })
 .catch(function (err) {

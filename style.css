@@ -3,12 +3,12 @@
   margin: 0;
   padding: 0;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
 }
 .grid > li{
   margin: 8px;
   padding: 0;
-  width: 130px;
+  width: 150px;
   height: auto;
   overflow: hidden;
   border-radius: 4px;
@@ -19,7 +19,7 @@
 }
 .item > img{
 	width: inherit;
-	height: inherit;
+	height: 210px;
 }
 .item > p{
   white-space: nowrap;
@@ -27,4 +27,7 @@
   text-overflow: ellipsis;
   font-size: 12px;
   margin: 5px 0 7px 0; padding: 0 3px 0 3px;
+}
+.grid > li:nth-child(3n+1){
+  display: none;
 }

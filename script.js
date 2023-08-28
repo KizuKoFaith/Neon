@@ -10,10 +10,10 @@ fetch('/maindata.json')
     	// Loop items from Json
 		for(let i = 0; i < data.length; i++){
 			let li, div, img, p;
-			li.createElement('li');
-			div.createElement('div');
-			img.createElement('img');
-			p.createElement('p');
+			li = document.createElement('li');
+			div = document.createElement('div');
+			img = document.createElement('img');
+			p = document.createElement('p');
 			//Set element attributes
 			li.setAttribute('class','w3-card-4');
 			div.setAttribute('class','item');

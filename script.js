@@ -10,7 +10,7 @@ fetch('/maindata.json')
     	// Loop items from Json
 		for(let i = 0; i < data.length; i++){
 			let li, div, img, p;
-			li = document.createElement('li');
+			li.createElement('li');
 			div.createElement('div');
 			img.createElement('img');
 			p.createElement('p');

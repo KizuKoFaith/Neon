@@ -1,4 +1,4 @@
-fetch('https://freenovels.site/maindata.json')
+fetch('/maindata.json')
 .then(function (response) {
     // The JSON data will arrive here
 		return response.json();

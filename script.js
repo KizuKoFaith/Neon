@@ -6,7 +6,7 @@ fetch('/maindata.json')
 		return response.json();
   })
 .then(function (data) {
-    	let display = document.getElementsByClassName("grid");
+    	var display = document.getElementById("items");
     	// Loop items from Json
 		for(let i = 0; i < data.length; i++){
 			let li, div, img, p;

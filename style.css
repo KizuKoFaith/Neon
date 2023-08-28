@@ -3,19 +3,17 @@
   grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
 }
 .item{
-
-				width: inherit;
-
-				height: auto;
-				margin: 10px;
-			}
-			.item > img{
-				width: 160px;
-				height: inherit;
-			}
-			.item > p{
-				white-space: nowrap;
-  			  overflow: hidden;
-  			  text-overflow: ellipsis;
-  			  margin: 5px 0 0 0; padding: 0;
-			}
+  width: inherit;
+	height: auto;
+  margin: 10px;
+}
+.item > img{
+	width: 160px;
+	height: inherit;
+}
+.item > p{
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin: 5px 0 0 0; padding: 0;
+}

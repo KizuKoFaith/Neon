@@ -41,7 +41,7 @@
   			  margin: 5px 0 0 0; padding: 0;
 			}
 		</style>
-		<div class="items w3-container w3-center w3-row">
+		<div id="items" class="items w3-container w3-center w3-row">
 			<div class="item w3-col m4 l3">
 				<img src="https://i0.wp.com/jnovels.com/wp-content/uploads/2023/08/Accel-World-v26-Conqueror-of-the-Sundered-Heavens.jpg?w=500&ssl=1" id="cover" class="w3-round"/>
 				<p id="title">Accel World</p>
@@ -56,5 +56,23 @@
 			</div>
 		</div>
 	</div>
+	<script tyle="text/javascript">
+	 	fetch(https://www.freenovels.site/maindata.json)
+  .then(function (response) {
+    // The JSON data will arrive here
+		return response.json();
+  })
+  .then(function (data) {
+    	let display = document.getElementById("items");
+    	// Loop items from Json
+		for(let i = 0; i <= data.length; i++){
+			let encode = "<div class='item w3-col m4 l3'><img src='"+data[i].cover+"'/><p id='title'>"+data[i].title+"</p></div>";
+		}
+  })
+  .catch(function (err) {
+    // If an error occured, you will catch it here
+		console.log(err);
+  });
+	</script>
 </body>
 </html>

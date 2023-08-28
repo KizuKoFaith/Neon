@@ -1,14 +1,30 @@
 fetch('/maindata.json')
+
 .then(function (response) {
+
     // The JSON data will arrive here
 		return response.json();
   })
 .then(function (data) {
-    	let display = document.getElementById("items");
+    	let display = document.getElementsByClassName("grid");
     	// Loop items from Json
 		for(let i = 0; i < data.length; i++){
-			let encode = "";
-			display.innerHTML = encode;
+			let li, div, img, p;
+			li = document.createElement('li');
+			div.createElement('div');
+			img.createElement('img');
+			p.createElement('p');
+			//Set element attributes
+			li.setAttribute('class','w3-card-4');
+			div.setAttribute('class','item');
+			img.setAttribute('src','');
+			p.setAttribute('id','title');
+			// Set data to elements 
+			p.textContent = data[i].title;
+			img.src = data[i].cover;
+			// Append child to parent
+			div.appendChild(img,p);
+			display.appendChild(div);
 		}
   })
 .catch(function (err) {

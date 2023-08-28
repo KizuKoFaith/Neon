@@ -23,8 +23,9 @@ fetch('/maindata.json')
 			p.textContent = data[i].title;
 			img.src = data[i].cover;
 			// Append child to parent
-			div.appendChild(img,p);
-			display.appendChild(div);
+			div.append(img);
+			div.append(p);
+			display.append(div);
 		}
   })
 .catch(function (err) {

@@ -1,5 +1,6 @@
 [
   {
+    "id":5,
     "title":"Sword Art Online",
     "cover":"https://static.wikia.nocookie.net/swordartonline/images/e/e6/Sword_Art_Online_Volume_27.png/revision/latest?cb=20221004172929",
     "status":"Releasing",
@@ -12,6 +13,7 @@
     "description":"After two hundred years, Kirito is finally reunited with Selka, Ronie and Tiese, but the girls are shocked to see Eolyne, who bears a striking resemblance to their fallen comrade. Then, with no time to process their feelings, the three Integrity Knights are thrown into battle alongside Eolyne and the Integrity Pilots. The old defenders of the Underworld join the new as the next chapter of the Unital Ring arc commences!\n\nNoted: This synopsis was base on Sword Art Online: Unital Ring\n\n(Source: Yen Press)"
   },
   {
+    "id":4,
     "title":"The Magical Revolution of the Reincarnated Princess and the Genius Young Lady",
     "cover":"https://i0.wp.com/jnovels.com/wp-content/uploads/2023/08/The-Magical-Revolution-of-the-Reincarnated-Princess-and-the-Genius-Young-Lady-v05.jpg?w=500&ssl=1",
     "status":"Releasing",
@@ -24,6 +26,7 @@
     "description":"Despite her supposed ineptitude with regular magic, Princess Anisphia defies the aristocracy’s expectations by developing “magicology,” a unique magical theory based on memories from her past life. One day, she witnesses the brilliant noblewoman Euphyllia unjustly stripped of her title as the kingdom’s next monarch. That’s when Anisphia concocts a plan to help Euphyllia regain her good name-which somehow involves them living together and researching magic! Little do these two ladies know, however, that their chance encounter will alter not only their own futures, but those of the kingdom...and the entire world!"
   },
   {
+    "id":3,
     "title":"That Time I Got Reincarnated as a Slime",
     "cover":"https://i0.wp.com/jnovels.com/wp-content/uploads/2023/08/That-Time-I-Got-Reincarnated-as-a-Slime-v16.jpg?w=500&ssl=1",
     "status":"Releasing",
@@ -36,6 +39,7 @@
     "description":"Living alone and never having had a girlfriend, 37-year-old Satoru Mikami is dissatisfied with how his life has turned out. But after dying at the hands of a robber, he awakens to a fresh start in a new world...as a slime monster.\n\n(Source: Yen Press)"
   },
   {
+    "id":2,
     "title":"The Detective is Already Dead",
     "cover":"https://static.wikia.nocookie.net/the-detective-is-already-dead/images/0/07/Tanmoshi_book06.jpg/revision/latest?cb=20220725184330",
     "status":"Releasing",
@@ -48,6 +52,7 @@
     "description":"The story of Tantei wa mou, Shindeiru. follows Kimihiko Kimizuka, a young man who four years ago became the assistant of a mysterious detective known as \"Siesta\" on a hijacked airplane. Together, Kimihiko and Siesta went on mind-boggling, globe-trotting adventures while combatting a secret organization, but all of that came to an end when they were separated by Siesta\'s death. In the present day, Kimihiko tries to return to an ordinary, boring life as a high school student, but things are never that simple, even though the detective is already dead.\n\n(Source: Crunchyroll, edited)"
   },
   {
+    "id":1,
     "title":"Haibara’s Teenage New Game+",
     "cover":"https://i0.wp.com/jnovels.com/wp-content/uploads/2023/08/Haibaras-Teenage-New-Game-Volume-04.jpg?w=500&ssl=1",
     "status":"Releasing",

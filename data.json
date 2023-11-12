@@ -1,30 +1,23 @@
 {
   "data":[
     {
-      "title":"",
-      "cover":"",
-      "status":"",
-      "type":"",
-      "translation":{
-        "group":"",
-        "link":""
-      },
-      "genre":{
-        "name":""
-      }
-    },
-    {
+      "id": 0,
       "title":"Haiabara’s Teenage New Game+",
-      "cover":"https://i0.wp.com/jnovels.com/wp-content/uploads/2023/08/Haibaras-Teenage-New-Game-Volume-04.jpg?w=500&ssl=1",
+      "cover":"https://cloverclubwork.github.io/BookiFab-Files/images/Img_100_0-book_reader_ReadEra.png",
       "status":"Publishing",
       "type":"Light Novel",
+      "author":"Kazuki Amamiya",
+      "illustrator":"Gin",
       "translation":{
         "group":"J-Novel Club",
-        "link":""
+        "link":"https://j-novel.club/series/haibara-s-teenage-new-game"
       },
       "genre":{
-        "name":""
-      }
+        "name":"Romance",
+        "name":"Slice of Life",
+        "name":"Seinen"
+      },
+      "link":"/Haibaras-Teenage-New-Game.json"
     }
   ]
 }

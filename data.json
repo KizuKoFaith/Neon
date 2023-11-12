@@ -1,6 +1,23 @@
 {
   "data":[
     {
+      "id": 1,
+      "title":"The Conqueror From A Dying Kingdom",
+      "cover":"https://i0.wp.com/jnovels.com/wp-content/uploads/2023/09/The-Conqueror-from-a-Dying-Kingdom-vol-5-Premium.jpg?w=500&ssl=1",
+      "status":"Publishing",
+      "type":"Light Novel",
+      "author":"Fudeorca",
+      "illustrator":"Toi8",
+      "translation":{
+        "group":"J-Novel Club",
+        "link":"https://j-novel.club/series/the-conqueror-from-a-dying-kingdom"
+      },
+      "genre":{
+        "name":"Fantasy"
+      },
+      "link":"storage/The-Conqueror-from-a-Dying-Kingdom.json"
+    },
+    {
       "id": 0,
       "title":"Haiabara’s Teenage New Game+",
       "cover":"https://cloverclubwork.github.io/BookiFab-Files/images/Img_100_0-book_reader_ReadEra.png",
@@ -17,7 +34,7 @@
         "name":"Slice of Life",
         "name":"Seinen"
       },
-      "link":"/Haibaras-Teenage-New-Game.json"
-    }
+      "link":"storage/Haibaras-Teenage-New-Game.json"
+    },
   ]
 }

@@ -1,0 +1,52 @@
+{
+  "data":[
+    {
+      "id": 1,
+      "title":"The Conqueror From A Dying Kingdom",
+      "cover":"https://i0.wp.com/jnovels.com/wp-content/uploads/2023/09/The-Conqueror-from-a-Dying-Kingdom-vol-5-Premium.jpg?w=500&ssl=1",
+      "status":"Publishing",
+      "type":"Light Novel",
+      "author":"Fudeorca",
+      "illustrator":"Toi8",
+      "translation":{
+        "group":"J-Novel Club",
+        "link":"https://j-novel.club/series/the-conqueror-from-a-dying-kingdom"
+      },
+      "genre":{
+        "name":"Fantasy"
+      },
+      "volumes":[
+        {
+          "name":"Volume 1",
+          "cover":"https://i0.wp.com/jnovels.com/wp-content/uploads/2022/09/The-Conqueror-from-a-Dying-Kingdom-v1.jpg?w=500&ssl=1",
+          "epub_link":"10Fspa-oIMfx0jO7Ge7yVlBQxNXm7RMYv",
+          "pdf_link":""
+        },
+        {
+          "name":"Volume 2",
+          "cover":"https://i0.wp.com/jnovels.com/wp-content/uploads/2022/12/The-Conqueror-from-a-Dying-Kingdom-v02.jpg?w=500&ssl=1",
+          "epub_link":"10AhfoMF3Zgzfjv59YjS1-u1yp2n2NzvY",
+          "pdf_link":""
+        },
+        {
+          "name":"Volume 3",
+          "cover":"https://i0.wp.com/jnovels.com/wp-content/uploads/2023/03/The-Conqueror-from-a-Dying-Kingdom-Volume-03.jpg?w=500&ssl=1",
+          "epub_link":"10TLrutAXhtAqe7AG9hPDBZIISurjYiKs",
+          "pdf_link":""
+        },
+        {
+          "name":"Volume 4",
+          "cover":"https://i0.wp.com/jnovels.com/wp-content/uploads/2023/06/The-Conqueror-from-a-Dying-Kingdom-Volume-04.jpg?w=500&ssl=1",
+          "epub_link":"10Xy_wtznU1PaRDs2AeO11ECBpU_Pnd81",
+          "pdf_link":""
+        },
+        {
+          "name":"Volume 5",
+          "cover":"https://i0.wp.com/jnovels.com/wp-content/uploads/2023/09/The-Conqueror-from-a-Dying-Kingdom-vol-5-Premium.jpg?w=500&ssl=1",
+          "epub_link":"10YDx1h47TwLUEeV7qLrxPWIR0HgeL232",
+          "pdf_link":""
+        }
+      ]
+    }
+  ]
+}

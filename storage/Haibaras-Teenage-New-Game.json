@@ -1,0 +1,55 @@
+{
+  "data":[
+    {
+      "id": 0,
+      "title":"Haiabara’s Teenage New Game+",
+      "cover":"https://cloverclubwork.github.io/BookiFab-Files/images/Img_100_0-book_reader_ReadEra.png",
+      "status":"Publishing",
+      "type":"Light Novel",
+      "author":"Kazuki Amamiya",
+      "illustrator":"Gin",
+      "translation":{
+        "group":"J-Novel Club",
+        "link":"https://j-novel.club/series/haibara-s-teenage-new-game"
+      },
+      "genre":{
+        "name":"Romance",
+        "name":"Slice of Life",
+        "name":"Seinen"
+      },
+      "synopsis":"We all have embarrassing memories or deep regrets from high school, right? Socially anxious college senior Natsuki Haibara sure does. When he thinks back on that time of his life, all he has are fleeting fantasies of a happy adolescence that could have been. Imagine his bewilderment and surprise, then, when he inexplicably finds himself seven years in the past—one month before his first year of high school! Can Haibara avoid his previous mistakes, make his way to the top of the school social pyramid, and end up with the girl of his dreams? Or will he be forced to relive three years of solitude as the most hated guy in school? He’ll need all the help he can get in order to succeed, from a workout regimen to online how-to guides, a childhood friend, and plenty of sheer willpower. Watch as Haibara takes a second shot at his teenage years!",
+      "volumes":[
+        {
+          "name":"Volume 1",
+          "cover":"https://i0.wp.com/jnovels.com/wp-content/uploads/2022/12/Haibaras-Teenage-New-Game.jpg?w=500&ssl=1",
+          "epub_link":"1HSO0bm6khxdUxAFM4tgezgiCQtsJkruY",
+          "pdf_link":"1R4x-id4pRg1PuZC6PaGeJkVl1Ld6uL9h"
+        },
+        {
+          "name":"Volume 2",
+          "cover":"https://i0.wp.com/jnovels.com/wp-content/uploads/2023/02/Haibaras-Teenage-New-Game-Volume-2.jpg?w=500&ssl=1",
+          "epub_link":"1HHcBtk7zXg379bVSgRyFpxedoGVnx5Bi",
+          "pdf_link":"1mTBlc7CDZQ2Q6UaUAu96FnEvNXQ-jSH8"
+        },
+        {
+          "name":"Volume 3",
+          "cover":"https://i0.wp.com/jnovels.com/wp-content/uploads/2023/05/new-game-vol-3.jpg?w=500&ssl=1",
+          "epub_link":"1HBY-e53FTdLnlpSP6gjovARZ9M2gDlC2",
+          "pdf_link":"1dNTQYGB2Tzhk0_zWHDbyeJR8qPBxTJu6"
+        },
+        {
+          "name":"Volume 4",
+          "cover":"https://i0.wp.com/jnovels.com/wp-content/uploads/2023/08/Haibaras-Teenage-New-Game-Volume-04.jpg?w=500&ssl=1",
+          "epub_link":"1H9ev3I-naJ_w66jUaobZU9IQk7GK4d1h",
+          "pdf_link":"1lAGNPiJk5Mkt-osh7bcfDcaFBujZWPF4"
+        },
+        {
+          "name":"Volume 5",
+          "cover":"https://cloverclubwork.github.io/BookiFab-Files/images/Img_100_0-book_reader_ReadEra.png",
+          "epub_link":"1quSrbm0BKwSvPAKF1_XQIF4Ne4UUE9DQ",
+          "pdf_link":"1hwTgBGBdstFyrpxIVbPyC49pOtZJto1l"
+        }
+      ]
+    }
+  ]
+}

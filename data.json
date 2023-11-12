@@ -1,0 +1,17 @@
+{
+  "data":[
+    {
+      "title":"",
+      "cover":"",
+      "status":"",
+      "type":"",
+      "translation":{
+        "group":"",
+        "link":""
+      },
+      "genre":{
+        "name":""
+      }
+    }
+  ]
+}
